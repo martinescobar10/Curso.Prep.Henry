@@ -1,0 +1,29 @@
+body {
+	background-color: #EFFBFF;
+	margin-left: 50px;
+	font-family: sans-serif;
+}
+
+#foto {
+	width: 200px;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+h6 {
+	font-size: 15px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+div {
+	 border-top: 1px solid ;
+  	border-right: 1px solid ;
+ 	border-bottom: 1px solid ;
+ 	 border-left: 1px solid;
+ 	 border: inset;
+ 	 margin-right: 500px;
+}	

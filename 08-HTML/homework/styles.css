@@ -23,7 +23,10 @@
 				padding: 50px;
 				border: 2px double lightgray;
 				float: left;
-				margin-left: 400px;
+				margin-left: 475px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
 
 			}
 
