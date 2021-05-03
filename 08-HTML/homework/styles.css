@@ -1,20 +1,33 @@
+			body {
+				background-image: url("https://irp-cdn.multiscreensite.com/12dad350/MOBILE/images/bdf49e93-2d2f-46fe-928d-07e325dbeac9.jpg");
+				color: #E47777;
+				height: 100%;
+				width: 100%;
+				text-align: center;
+			}
+
 			h1 {
 				color: red;
+				
 			}
 			img {
 				width: 400px;
 				margin: 0;
 				padding: 0;
-			}
+				}
+
 			#thirdDiv {
 				height: 600px;
 				width: 500px;
 				background-color: aliceblue;
 				padding: 50px;
 				border: 2px double lightgray;
+				float: left;
+				margin-left: 400px;
+
 			}
 
 			#spanId { 
 				font-size: 18px;
 				margin: 50px;
-			 }
+				 }
